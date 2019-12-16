@@ -1,0 +1,55 @@
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url('../../app//fonts/ProximaNova-Regular.eot');
+    src: url('../../app//fonts/ProximaNova-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../../app//fonts/ProximaNova-Regular.woff2') format('woff2'),
+        url('../../app//fonts/ProximaNova-Regular.woff') format('woff'),
+        url('../../app//fonts/ProximaNova-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FuturaBookC';
+    src: url('../../app//fonts/FuturaBookC.eot');
+    src: url('../../app//fonts/FuturaBookC.eot?#iefix') format('embedded-opentype'),
+        url('../../app//fonts/FuturaBookC.woff2') format('woff2'),
+        url('../../app//fonts/FuturaBookC.woff') format('woff'),
+        url('../../app//fonts/FuturaBookC.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FuturaDemiC';
+    src: url('../../app//fonts/FuturaDemiC.eot');
+    src: url('../../app//fonts/FuturaDemiC.eot?#iefix') format('embedded-opentype'),
+        url('../../app//fonts/FuturaDemiC.woff2') format('woff2'),
+        url('../../app//fonts/FuturaDemiC.woff') format('woff'),
+        url('../../app//fonts/FuturaDemiC.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FuturaMediumC';
+    src: url('../../app//fonts/FuturaMediumC.eot');
+    src: url('../../app//fonts/FuturaMediumC.eot?#iefix') format('embedded-opentype'),
+        url('../../app//fonts/FuturaMediumC.woff2') format('woff2'),
+        url('../../app//fonts/FuturaMediumC.woff') format('woff'),
+        url('../../app//fonts/FuturaMediumC.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Yeseva One';
+    src: url('../../app//fonts/YesevaOne.eot');
+    src: url('../../app//fonts/YesevaOne.eot?#iefix') format('embedded-opentype'),
+        url('../../app//fonts/YesevaOne.woff2') format('woff2'),
+        url('../../app//fonts/YesevaOne.woff') format('woff'),
+        url('../../app//fonts/YesevaOne.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
